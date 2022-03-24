@@ -1,0 +1,20 @@
+.navbarlink {
+  font-size: 120%;
+  color: White;
+  margin-right: 2%;
+  padding: 40PX;
+}
+.nav {
+  padding: 1%;
+  display: flex;
+  align-items: baseline;
+  background-color: black;
+  margin-bottom: 0%;
+}
+.span{background: rgb(0,0,0);
+  padding: 400px;
+  background: rgb(0,0,0);
+  background: linear-gradient(90deg, rgba(0,0,0,1) 14%, rgba(223,9,9,1) 48%, rgba(0,0,0,1) 86%);}
+  .navbarlink:hover {
+  backgrounbd-color: #615d25;
+}

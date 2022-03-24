@@ -1,0 +1,20 @@
+.footer {
+  flex-shrink: 0;
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 0.5%;
+  text-align: center;
+  text-decoration: wavy;
+  float: center;
+  margin-top: 100px;
+  margin-top: auto;
+
+}
+p{
+  float : left;
+  padding-left: 10%;
+}
+a{
+  padding-left: 5%;
+}
